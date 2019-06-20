@@ -1,0 +1,3 @@
+rootProject.name = 'mobile_cashier_4949'
+
+include ':app'

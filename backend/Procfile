@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mobile_cashier_4949.wsgi:application
